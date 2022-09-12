@@ -1,0 +1,32 @@
+*{
+    background-color: #D6CECC;
+}
+#container{
+
+    border: 10px solid rgb(120, 211, 205);
+    border-radius: 20px;
+    padding-bottom: 20px;
+    margin: 150px, 50px ;
+    background-color: rgb(120, 211, 205);
+    text-align: center;
+}
+p{
+
+    background-color: rgb(120, 211, 205);
+    color: white;
+    font-weight: bold;
+}
+#response{
+    color: #000000f7;
+    margin-right: 20px;
+    background-color: #eafbf964;
+    border-radius: 2px;
+}
+#btn{
+
+    background-color: rgb(35, 40, 41);
+    color: white;
+    border-radius: 30px;
+    padding: 2px 15px 2px 15px;
+    font-weight: 900;
+}
